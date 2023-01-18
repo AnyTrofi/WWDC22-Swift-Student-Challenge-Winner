@@ -1,7 +1,7 @@
 # WWDC22 Swift Student Challenge - Winner!
 This is my WWDC22 Swift Student Challenge project. I made an Ecology APP in which you have to learn how to take care of the environment in a playful way
 
-I won the Swift Stufents Challenge 2022 with this app
+I won the Swift Students Challenge 2022 with this app
 
 <img width="370" alt="Screen Shot 2022-05-24 at 8 06 24 PM" src="https://user-images.githubusercontent.com/90638222/170097089-3c81ec0f-8985-4020-ba91-4e11a7252276.png">
 
